@@ -3,6 +3,7 @@ package software.ulpgc.katas;
 import java.time.LocalDate;
 
 public class person {
+    public static final double DAYS_PER_YEARS = 365.25;
     private final String Name;
 
     private final LocalDate Birthday;
@@ -25,6 +26,6 @@ public class person {
     }
 
     private int toyears(long days) {
-        return (int) (days/365);
+        return (int) (days/ DAYS_PER_YEARS);
     }
 }
