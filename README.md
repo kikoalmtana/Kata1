@@ -5,9 +5,25 @@ En este repositorio se encuentran los ficheros y ramas elaboradas durante la rea
 la Kata 1 de IS2, así como un enlace a un video explicativo donde se muestra la realización de
 la Kata
 
+---
+
+### Índice
+
+1. [Objetivo de la entrega](#objetivo-de-la-entrega)
+2. [Cómo compilar y ejecutar, dependencias y versión de JDK](#cómo-compilar-y-ejecutar-dependencias-y-versión-de-jdk)
+3. [Estructura de la entrega, clases principales y flujo git](#estructura-de-la-entrega-clases-principales-y-flujo-git)
+4. [Enlace al vídeo explicativo](#enlace-al-video-expliactivo)
+5. [Evidencias de verificación o pruebas realizadas](#evidencias-de-verificación-o-pruebas-realizadas)
+
+---
+
 ### Objetivo de la entrega
 
-### Como compilar y ejecutar, dependencias y versión de JDK
+El objetivo de la entrega consiste en crear un proyecto muy sencillo en IntelliJ y utilizar comandos, atajos de teclado y shortcuts para
+obtener agilidad en el uso del IDE, de forma que ayuda al alumno a familiarizarse con el entorno de trabajo y ganar soltura para
+realizar con mayor comodidad y agilidad diferentes tareas con esta herramienta.
+
+### Cómo compilar y ejecutar, dependencias y versión de JDK
 
 Para compilar y ejecutar el proyecto basta con descargar el proyecto y ejecutar la main()
 de la clase Main en el directorio del proyecto src/software/ulpgc
